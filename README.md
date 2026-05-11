@@ -1,6 +1,6 @@
 # WRIT-FM
 
-A 24/7 AI-powered music-forward radio station. AI generates the music, writes short hosted breaks, TTS speaks them, and the stream runs forever.
+A 24/7 AI-powered music-forward radio station. AI generates the music, writes short hosted breaks, TTS speaks them, and the stream runs forever. 
 
 ## What is this?
 
